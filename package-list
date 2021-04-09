@@ -1,12 +1,13 @@
-com.DivineInspiration.experimenter
 com.DivineInspiration.experimenter.Activity
 com.DivineInspiration.experimenter.Activity.UI
+com.DivineInspiration.experimenter.Activity.UI.Comments
 com.DivineInspiration.experimenter.Activity.UI.Experiments
-com.DivineInspiration.experimenter.Activity.UI.Experiments.MapUI
-com.DivineInspiration.experimenter.Activity.UI.Experiments.TrialsUI
 com.DivineInspiration.experimenter.Activity.UI.Explore
+com.DivineInspiration.experimenter.Activity.UI.Map
 com.DivineInspiration.experimenter.Activity.UI.Profile
-com.DivineInspiration.experimenter.Activity.UI.Scan
+com.DivineInspiration.experimenter.Activity.UI.QRBarCode
+com.DivineInspiration.experimenter.Activity.UI.Stats
+com.DivineInspiration.experimenter.Activity.UI.TrialsUI
 com.DivineInspiration.experimenter.Controller
 com.DivineInspiration.experimenter.Model
 com.DivineInspiration.experimenter.Model.Comment
